@@ -1,6 +1,10 @@
+![My style](https://live.staticflickr.com/323/32549814285_891f57121c.jpg)
+
 # Hi, my name is Mathieu !
 
+<center>**I'm a future full stack developper, currently into my second year of scholarship in Paris 🇫🇷.**</center>
 
+**You can take a look at my portfolio, I try to update it as frequently as possible**
 
 <!--
 **ssfufu/ssfufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
