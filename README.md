@@ -28,3 +28,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width=128>
   <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" width=115>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssfufu&theme=dark&background=000000)](https://git.io/streak-stats)
