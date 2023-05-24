@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi, my name is Mathieu !</h1>
 
-<h3 align="center">I'm a future full stack developper, currently into my second year of scholarship in Paris 🇫🇷.</h3>
-
+<h3 align="center">I'm a future Network and System Administrator, currently into my second year of scholarship in Paris 🇫🇷.</h3>
+<h3 align="center">I am currently searching for a 15 months apprenticeship in that domain, with a 3 weeks / 1 week cycle.</h3>
 <h3 align="center">You can take a look at my portfolio to know more about me and what I do outside IT !</h3>
 
 ![My style](https://wallpaperaccess.com/full/2043622.png)
