@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi, my name is Mathieu !</h1>
 
-/* <h3 align="center">I'm a future Network and System Administrator in Paris 🇫🇷.</h3>
+<!--
+<h3 align="center">I'm a future Network and System Administrator in Paris 🇫🇷.</h3>
 <h3 align="center">You can take a look at my portfolio to know more about me and what I do outside IT !</h3>
-*/
+-->
+
 ![My style](https://wallpaperaccess.com/full/2043622.png)
 
 <h1></h1>
